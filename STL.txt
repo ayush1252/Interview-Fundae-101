@@ -1,0 +1,1 @@
+The Standard Template Library (STL) is a software library for the C++ programming language that influenced many parts of the C++ Standard Library. It provides four components called algorithms, containers, functors, and iterators.[1]
